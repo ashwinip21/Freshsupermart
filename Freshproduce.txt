@@ -1,0 +1,21 @@
+#Freshmart Produce inventory
+# Format: name | Category | In_stock | price_per_kg
+#all units are in kilograms
+
+[fruits]
+apple | fruit | yes | 4.00
+banana | fruit | yes | 2.00
+avocado | fruit | no | 2.00
+grapes | fruit | yes | 4.00
+mango | fruit | no | 1.00
+berries | fruit | yes | 6.00
+
+[veggies]
+spinach | veggie | yes | 3.00
+potato | veggie | yes | 2.00
+cucumber | veggie | no | 5.00
+beetroot | veggie | yes | 2.00
+chilli | veggie | no | 1.00
+zucchini | veggie | yes | 2.00
+winter melon | veggie | no | 3.00
+sweet potato | veggie | no | 2.80
