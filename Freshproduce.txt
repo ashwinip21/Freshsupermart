@@ -3,12 +3,12 @@
 #all units are in kilograms
 
 [fruits]
-apple | fruit | yes | 4.00
-banana | fruit | yes | 2.00
-avocado | fruit | no | 2.00
+apple | fruit | yes | 2.00
+banana | fruit | yes | 3.00
+avocado | fruit | no | 6.00
 grapes | fruit | yes | 4.00
-mango | fruit | no | 1.00
-berries | fruit | yes | 6.00
+mango | fruit | no | 4.00
+berries | fruit | yes | 9.00
 
 [veggies]
 spinach | veggie | yes | 3.00
